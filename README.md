@@ -1,8 +1,8 @@
-This program was ran in a Cloudera VM in Orcale VirtualBox.\n
-Datasets:\n
-  \tAmazon Reviews (input file): https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews/data?select=train.csv\n
-  \tPositive Words: https://www.kaggle.com/datasets/prajwalkanade/sentiment-analysis-word-lists-dataset?select=positive-words.txt\n
-  \tNegative Words: https://www.kaggle.com/datasets/prajwalkanade/sentiment-analysis-word-lists-dataset?select=negative-words.txt\n
+This program was ran in a Cloudera VM in Orcale VirtualBox.
+Datasets:
+  Amazon Reviews (input file): https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews/data?select=train.csv
+  Positive Words: https://www.kaggle.com/datasets/prajwalkanade/sentiment-analysis-word-lists-dataset?select=positive-words.txt
+  Negative Words: https://www.kaggle.com/datasets/prajwalkanade/sentiment-analysis-word-lists-dataset?select=negative-words.txt
 
 To run code:
 1. hadoop fs -mkdir /user/cloudera/amazonsentiment /user/cloudera/amazonsentiment/input
